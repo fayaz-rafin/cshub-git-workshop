@@ -1,3 +1,6 @@
 print("Hello, World!")
 print("Hello, CSHub!")
 print("Hello, everyone!")
+
+def hello:
+  print("Hello(
